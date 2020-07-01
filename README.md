@@ -2,6 +2,11 @@
 
 Here you can find a version of the code that I've used to create my personal website.
 
+![Intro Banner](https://i.ibb.co/D95V7Kv/Screenshot-2019-05-29-at-17-05-08.png)
+![About Section](https://i.ibb.co/gz0HLdw/Screenshot-2019-05-29-at-17-05-19.png)
+![Project Section](https://i.ibb.co/VSVM0K7/Screenshot-2019-05-29-at-17-05-34.png)
+![Mobile view](https://i.ibb.co/Rbv6CNW/Screenshot-2019-05-29-at-17-06-20.png)
+
 ## Getting Started
 
 The first thing you need to do is clone or download this repository on your machine or development environment.
